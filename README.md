@@ -1,5 +1,5 @@
-<h3 align="center">i'm obvRedwolf or ronald</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=obvredwolf&label=Profile%20views&color=0e75b6&style=flat" alt="obvredwolf" /> </p>
+<h3 align="center">i'm amia</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amiadx&label=Profile%20views&color=0e75b6&style=flat" alt="amiadx" /> </p>
 
 <h3 align="left">socials</h3>
 <p align="left">
